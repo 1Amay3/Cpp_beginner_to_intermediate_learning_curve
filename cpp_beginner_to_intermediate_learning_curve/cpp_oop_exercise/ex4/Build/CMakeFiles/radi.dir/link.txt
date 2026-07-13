@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/radi.dir/main.cpp.o -o radi 

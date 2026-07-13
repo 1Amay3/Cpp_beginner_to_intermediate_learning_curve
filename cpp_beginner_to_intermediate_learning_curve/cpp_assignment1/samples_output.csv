@@ -1,0 +1,6 @@
+index,i_component,q_component,magnitude
+0,1,0,1
+1,0,1,1
+2,-1,0,1
+3,0,-1,1
+4,0.707,0.707,0.999849

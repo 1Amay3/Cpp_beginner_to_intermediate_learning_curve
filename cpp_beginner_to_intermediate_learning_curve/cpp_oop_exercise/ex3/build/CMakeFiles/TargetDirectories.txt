@@ -1,0 +1,3 @@
+/home/nika/Documents/cpp_oop_exercise/ex3/build/CMakeFiles/book_ex3.dir
+/home/nika/Documents/cpp_oop_exercise/ex3/build/CMakeFiles/edit_cache.dir
+/home/nika/Documents/cpp_oop_exercise/ex3/build/CMakeFiles/rebuild_cache.dir

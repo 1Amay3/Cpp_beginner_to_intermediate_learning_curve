@@ -1,0 +1,3 @@
+/home/nika/Documents/cpp_oop_exercise/ex4/Build/CMakeFiles/radi.dir
+/home/nika/Documents/cpp_oop_exercise/ex4/Build/CMakeFiles/edit_cache.dir
+/home/nika/Documents/cpp_oop_exercise/ex4/Build/CMakeFiles/rebuild_cache.dir
