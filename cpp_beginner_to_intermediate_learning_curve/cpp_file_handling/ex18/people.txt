@@ -1,0 +1,9 @@
+Person 1 name: Lamine
+Person 1 age: 19
+Person 2 name: Kylian
+Person 2 age: 27
+Person 3 name: Haaland
+Person 3 age: 27
+ name: Lamine, age: 19
+ name: Kylian, age: 27
+ name: Haaland, age: 27
